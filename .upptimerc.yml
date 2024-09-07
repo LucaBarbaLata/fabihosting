@@ -5,8 +5,8 @@ repo: fabihosting # The name of this repository
 sites:
   - name: Panel
     url: https://panel.fabihosting.top
-  - name: Gn1
-    url: https:/srv.fabihosting.top
+  - name: Royal Panel
+    url: https:/panel.royal-mc.zyz
 
 
 status-website:
