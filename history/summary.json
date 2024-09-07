@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 735,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Gn1",
+    "url": "https:/srv.fabihosting.top",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "gn1",
+    "status": "down",
+    "uptime": "18.68%",
+    "uptimeDay": "18.68%",
+    "uptimeWeek": "18.68%",
+    "uptimeMonth": "18.68%",
+    "uptimeYear": "18.68%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
   }
 ]
