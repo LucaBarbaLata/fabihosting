@@ -4,7 +4,7 @@
     "url": "https://panel.fabihosting.top",
     "icon": "https://icons.duckduckgo.com/ip3/panel.fabihosting.top.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 848,
     "timeMonth": 843,
     "timeYear": 843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-20": 0
+    }
   },
   {
     "name": "Royal Panel",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 35,
+      "2024-09-20": 352,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
