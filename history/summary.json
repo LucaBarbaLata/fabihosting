@@ -4,18 +4,19 @@
     "url": "https://panel.fabihosting.top",
     "icon": "https://icons.duckduckgo.com/ip3/panel.fabihosting.top.ico",
     "slug": "panel",
-    "status": "up",
-    "uptime": "99.80%",
+    "status": "down",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 826,
     "timeDay": 741,
     "timeWeek": 780,
     "timeMonth": 826,
     "timeYear": 826,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-09-20": 51
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-25": 36,
+      "2024-09-25": 561,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
       "2024-09-22": 1440,
