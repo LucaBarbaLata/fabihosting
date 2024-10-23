@@ -4,7 +4,7 @@
     "url": "https://panel.fabihosting.top",
     "icon": "https://icons.duckduckgo.com/ip3/panel.fabihosting.top.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "91.38%",
     "uptimeDay": "98.68%",
     "uptimeWeek": "94.39%",
@@ -48,7 +48,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-23": 450,
+      "2024-10-23": 464,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
